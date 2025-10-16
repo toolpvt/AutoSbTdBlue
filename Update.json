@@ -1,0 +1,31 @@
+{
+  "Version": "3.0",
+  "Notification": "Update map Sự Kiện 19/9/2025.",
+  "Update": [
+    {
+      "Name": "toolpvt.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/toolpvt.jar",
+      "Path": "\\"
+    },
+    {
+      "Name": "pvtclient.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/pvtclient.jar",
+      "Path": "\\"
+    },
+    {
+      "Name": "TOOL_UPSM.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/TOOL_UPSM.exe",
+      "Path": "\\"
+    },
+    {
+      "Name": "iditem.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/iditem.txt",
+      "Path": "\\"
+    },
+    {
+      "Name": "mapid.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/mapid.txt",
+      "Path": "\\"
+    }
+  ]
+}
